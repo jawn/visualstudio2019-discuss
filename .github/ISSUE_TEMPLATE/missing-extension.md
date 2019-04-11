@@ -11,7 +11,10 @@ assignees: ''
 
 e.g. https://marketplace.visualstudio.com/items?itemName=AlexPendleton.LocateinTFS2017
 
+# Github or similar repo
+
+Remove if not open source
+
 # Issue
 
-- [ ] Extension is not available for Visual Studio 2019
-- [ ] Other?
+- Extension is not available for Visual Studio 2019
