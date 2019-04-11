@@ -2,13 +2,17 @@
 
 What's blocking your upgrade to Visual Studio 2019? 
 
-* Extensions: Log an issue for extensions that are not available yet in 2019, and that you wish to see. Goal is to keep track here when they are available and whether the author was asked to update it.
+* Extensions: **Log an issue** for extensions that are not available yet in 2019, and that you wish to see. Goal is to keep track here when they are available and whether the author was asked to update it.
 * Other things? Let me know if there is other stuff that's lacking.
+
+# Current status
+
+See open issues.
 
 # What does not belong here:
 
-* Visual Studio issue reports: Use *Visual Studio menu > Help > Report a problem* instead
-* Visual Studio enhancement suggestions:  Use *Visual Studio menu > Help > Suggest a feature* instead
+* Visual Studio issue reports: Use *Visual Studio menu > Help > Report a problem* instead.
+* Visual Studio enhancement suggestions:  Use *Visual Studio menu > Help > Suggest a feature* instead.
 
 # Disclaimer
 
@@ -17,4 +21,4 @@ What's blocking your upgrade to Visual Studio 2019?
 
 # Contibutions
 
-PR welcome.
+PRs welcome.
