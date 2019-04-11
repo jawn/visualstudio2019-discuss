@@ -3,7 +3,7 @@
 What's blocking your upgrade to Visual Studio 2019? 
 
 * Extensions: **Log an issue** for extensions that are not available yet in 2019, and that you wish to see. Goal is to keep track here when they are available and whether the author was asked to update it.
-* Other things? Let me know if there is other stuff that's lacking.
+* Other things, e.g. an SDK or tool that depends on Visual Studio? Let me know if there is other stuff that's lacking.
 
 # Current status
 
