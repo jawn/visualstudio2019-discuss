@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-# Extension marketplace URL
+# Extension marketplace page
 
 e.g. https://marketplace.visualstudio.com/items?itemName=AlexPendleton.LocateinTFS2017
 
