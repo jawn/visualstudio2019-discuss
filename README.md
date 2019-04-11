@@ -14,3 +14,7 @@ What's blocking your upgrade to Visual Studio 2019?
 
 * [I will not take the monkey your back](https://hbr.org/1999/11/management-time-whos-got-the-monkey). Goal of this repo is to track these questions in one place. If the extension is open source, consider making a pull request.
 * I am not affiliated with Microsoft or Visual Studio.
+
+# Contibutions
+
+PR welcome.
