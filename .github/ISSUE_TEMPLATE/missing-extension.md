@@ -1,6 +1,6 @@
 ---
-name: Extension not available for Visual Studio 2019
-about: Describe this issue template's purpose here.
+name: Missing extension
+about: Extension not available/supported with Visual Studio 2019
 title: ''
 labels: extension
 assignees: ''
