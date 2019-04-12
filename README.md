@@ -16,7 +16,14 @@ See open issues.
 
 # A note to extension authors
 
+## Update to Visual Studio 2019 (version 16.0)
 This [article](https://devblogs.microsoft.com/visualstudio/how-to-upgrade-extensions-to-support-visual-studio-2019/) describes how to modify the .vsixmanifest to add Visual Studio 2019 support.
+
+## Update to Visual Studio 2019 (version 16.1 preview)
+
+> Synchronously auto-loaded package would be unsupported in a future version of Visual Studio. That version is 16.1.
+
+From: https://devblogs.microsoft.com/visualstudio/new-features-for-extension-authors-in-visual-studio-2019-version-16-1/
 
 # Disclaimer
 
