@@ -25,6 +25,11 @@ This [article](https://devblogs.microsoft.com/visualstudio/how-to-upgrade-extens
 
 From: https://devblogs.microsoft.com/visualstudio/new-features-for-extension-authors-in-visual-studio-2019-version-16-1/
 
+![Clarification](https://i.imgur.com/BHLEZ8a.png "Clarification")
+
+
+[Source](https://devblogs.microsoft.com/visualstudio/new-features-for-extension-authors-in-visual-studio-2019-version-16-1/#comments-21631)
+
 # Disclaimer
 
 * [I will not take the monkey your back](https://hbr.org/1999/11/management-time-whos-got-the-monkey). Goal of this repo is to track these questions in one place. If the extension is open source, consider making a pull request.
